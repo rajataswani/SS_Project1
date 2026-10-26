@@ -1,0 +1,1 @@
+1|RAPID_SAME_AMOUNT_TRANSFERS|2|1|10000|3|60|Repeated transfer of 10000 cents (3 times in 60s)|RESOLVED|1790755038|2|1790755227|Resolved with xyz

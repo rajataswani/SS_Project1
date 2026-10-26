@@ -1,0 +1,8 @@
+1|1|DEPOSIT|100000|0|Initial balance deposit|1790754334
+2|2|DEPOSIT|50000|0|Initial balance deposit|1790754334
+3|1|DEPOSIT|50000|0|Cash deposit|1790754855
+4|1|DEPOSIT|70000|0|Cash deposit|1790754925
+5|2|TRANSFER_OUT|10000|1|Transfer to Acc #1 (alice)|1790755009
+6|1|TRANSFER_IN|10000|2|Transfer from Acc #2 (bob)|1790755009
+7|2|TRANSFER_OUT|10000|1|Transfer to Acc #1 (alice)|1790755031
+8|1|TRANSFER_IN|10000|2|Transfer from Acc #2 (bob)|1790755031
